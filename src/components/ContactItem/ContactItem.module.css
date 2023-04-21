@@ -1,0 +1,11 @@
+.contactItem {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: 30px;
+  text-align: center;
+}
+.contactItem p {
+  margin: 0;
+}

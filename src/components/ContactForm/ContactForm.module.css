@@ -1,0 +1,12 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  border: 1px #000 solid;
+  padding: 20px;
+  width: 300px;
+}
+.contactform {
+  margin-bottom: 40px;
+}
